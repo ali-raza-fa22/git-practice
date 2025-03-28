@@ -1,5 +1,5 @@
 init git repo
-empty repo
-before first commit
+not empty repo anymore.
+after first commit.
 
 ali raza

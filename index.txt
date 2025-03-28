@@ -2,4 +2,6 @@ init git repo
 not empty repo anymore.
 after first commit.
 
+new line added by feat/new-file branch.
+
 ali raza

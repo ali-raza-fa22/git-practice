@@ -4,4 +4,7 @@ after first commit.
 
 adding new feature in index.txt.
 okay.!
+
+new line added by feat/new-file branch.
+
 ali raza

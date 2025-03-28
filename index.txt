@@ -3,5 +3,5 @@ not empty repo anymore.
 after first commit.
 
 adding new feature in index.txt.
-
+okay.!
 ali raza
